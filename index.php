@@ -20,11 +20,11 @@
         </div>
     </nav>
     <main>
-        <p>O site mostra tudo o que foi visto no curso de PHP com Banco de dados MySql.</p>
+        <p>O site mostra tudo o que foi visto no curso de <strong> PHP </strong> com Banco de dados MySql.</p>
     </main>
     <footer>
         <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks">Lucas Freitas.<a></p>
     </footer>
 </body>
 
-</html>
+</html>  
