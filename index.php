@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Titulo da página</title>
-    </head>
-    <body>
-        <h1>Página padrão PHP</h1>
 
-        <?php 
-        echo  "<p> Minha primeira conta</>" ;
-        echo '<p>';
-        echo 20;
-        echo '</p>';
+<head>
+    <meta charset="utf-8">
+    <title>Padrão</title>
+</head>
 
-        ?>
+<body>
+    <header>
+        <h1>Curso de PHP com Mysql</h1>
+    </header>
+    <nav>
+        <div id="basico">
+            <h2>Exercicios Básicos </h2>
+        </div>
+        <h2>Controle Financeiro</h2>
+        <div id="sistema">
 
+        </div>
+    </nav>
+    <main>
+        <p>O site mostra tudo o que foi visto no curso de PHP com Banco de dados MySql.</p>
+    </main>
+    <footer>
+        <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks">Lucas Freitas.<a></p>
+    </footer>
+</body>
 
-    </body>
 </html>
