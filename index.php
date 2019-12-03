@@ -1,30 +1,46 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 
 <head>
     <meta charset="utf-8">
-    <title>Padrão</title>
+    <title>Documento sem título</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Site criado no curso de PHP com Mysql" />
+    <meta name="keywords" content="curso PHP mysql html">
+    <meta name="autor" content="Lucas Freitas">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="stylesheet" href="css/folha_all.css">
+    <link rel="stylesheet" href="css/home.css">
 </head>
 
 <body>
-    <header>
-        <h1>Curso de PHP com Mysql</h1>
-    </header>
-    <nav>
-        <div id="basico">
-            <h2>Exercicios Básicos </h2>
-        </div>
-        <h2>Controle Financeiro</h2>
-        <div id="sistema">
 
-        </div>
-    </nav>
+    <header>
+        <img src="images/topocurso.png" alt="">
+
+        <nav>
+            <h1>PHP com banco de dados MySql Server</h1>
+            <p>
+                <a href="#">Básico</a>
+                <a href="#">Sistema</a>
+            </p>
+        </nav>
+    </header>
     <main>
-        <p>O site mostra tudo o que foi visto no curso de <strong> PHP </strong> com Banco de dados MySql.</p>
+        <article>
+            <h1>Mussum ipsum</h1>
+            <hr>
+            <p>Mussum Ipsum, cacilds vidis litro abertis. Manduma pindureta quium dia nois paga. Per aumento de cachacis, eu reclamis. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.</p>
+
+            <p>Leite de capivaris, leite de mula manquis sem cabeça. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Suco de cevadiss deixa as pessoas mais interessantis. Diuretics paradis num copo é motivis de denguis.</p>
+
+            <p>Mé faiz elementum girarzis, nisi eros vermeio. Viva Forevis aptent taciti sociosqu ad litora torquent. Casamentiss faiz malandris se pirulitá. Atirei o pau no gatis, per gatis num morreus.</p>
+        </article>
     </main>
     <footer>
-        <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks">Lucas Freitas.<a></p>
+        <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks> Lucas Freitas</a></p>
     </footer>
 </body>
 
-</html>  
+</html>
