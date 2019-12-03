@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Documento sem título</title>
+    <title>Curso de PHP com MySql</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Site criado no curso de PHP com Mysql" />
@@ -17,25 +17,23 @@
 <body>
 
     <header>
-        <img src="images/topocurso.png" alt="">
+   
+      <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="../images/topocurso.png" alt=""> </a>
 
         <nav>
             <h1>PHP com banco de dados MySql Server</h1>
             <p>
-                <a href="#">Básico</a>
+                <a href="basico/index.php">Básico</a>
                 <a href="#">Sistema</a>
             </p>
         </nav>
     </header>
     <main>
         <article>
-            <h1>Mussum ipsum</h1>
+            <h1>Site desenvolvido no curso de PHP com MySql </h1>
             <hr>
-            <p>Mussum Ipsum, cacilds vidis litro abertis. Manduma pindureta quium dia nois paga. Per aumento de cachacis, eu reclamis. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.</p>
-
-            <p>Leite de capivaris, leite de mula manquis sem cabeça. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Suco de cevadiss deixa as pessoas mais interessantis. Diuretics paradis num copo é motivis de denguis.</p>
-
-            <p>Mé faiz elementum girarzis, nisi eros vermeio. Viva Forevis aptent taciti sociosqu ad litora torquent. Casamentiss faiz malandris se pirulitá. Atirei o pau no gatis, per gatis num morreus.</p>
+            <p>Abordar todos os conceitos básicos da linguagem de PHP.</p>
+            <p>Aborda os conceitos de linguagem de marcação HTML e de formatação CSS.</p>
         </article>
     </main>
     <footer>

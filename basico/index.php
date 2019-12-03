@@ -1,20 +1,41 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Titulo da página</title>
-    </head>
-    <body>
-        <h1>Página padrão PHP</h1>
 
-        <?php 
-        echo  "<p> Minha primeira conta</>" ;
-        echo '<p>';
-        echo 20;
-        echo '</p>';
+<head>
+    <meta charset="utf-8">
+    <title>Curso de PHP com MySql</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Site criado no curso de PHP com Mysql" />
+    <meta name="keywords" content="curso PHP mysql html">
+    <meta name="autor" content="Lucas Freitas">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="stylesheet" href="../css/folha_all.css">
+    <link rel="stylesheet" href="../css/home.css">
+</head>
 
-        ?>
+<body>
 
+    <header>
+      <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="../images/topocurso.png" alt=""> </a>
 
-    </body>
+        <nav>
+        <?php
+            include "menu.php"
+            ?>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>Parte básica do curso</h1>
+            <hr>
+            <p>Abordar todos os conceitos básicos da linguagem PHP.</p>
+            <p>Acessando o menu você poderá testas alguns dos exemplos utilizados no curso </P>
+        </article>
+    </main>
+    <footer>
+        <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks> Lucas Freitas</a></p>
+    </footer>
+</body>
+
 </html>
