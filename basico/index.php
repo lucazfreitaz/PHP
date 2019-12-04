@@ -17,10 +17,10 @@
 <body>
 
     <header>
-      <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="../images/topocurso.png" alt=""> </a>
+        <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="../images/topocurso.png" alt=""> </a>
 
         <nav>
-        <?php
+            <?php
             include "menu.php"
             ?>
         </nav>
@@ -34,7 +34,7 @@
         </article>
     </main>
     <footer>
-        <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks> Lucas Freitas</a></p>
+        <p>Site desenvolvido por <a href="https://www.facebook.com/lukaz.f.goncalves?ref=bookmarks> </a> Lucas Freitas</p>
     </footer>
 </body>
 
