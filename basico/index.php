@@ -24,7 +24,7 @@
             <p>
                 <a href="tabuada.php">Tabuada</a>
                 <a href="nprimo.php">Número primo</a>
-				<a href="#">Sistema</a>
+				<a href="binario.php">Binário</a>
             </p>
             </p>
         </nav>

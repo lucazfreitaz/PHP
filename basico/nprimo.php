@@ -30,8 +30,8 @@
     </form>
 
     <?php
-    $n = 0;
-    $contador = 0;
+    $n = 0; //meu numero
+    $contador = 0; // se ele
 
     if (isset($_POST["enviar"])) {
         if ($_POST["valor"] != "outrovalor") {
