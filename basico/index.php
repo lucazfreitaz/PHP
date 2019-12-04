@@ -20,9 +20,13 @@
         <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="../images/topocurso.png" alt=""> </a>
 
         <nav>
-            <?php
-            include "menu.php"
-            ?>
+             <h1>PHP com banco de dados MySql Server</h1>
+            <p>
+                <a href="tabuada.php">Tabuada</a>
+                <a href="nprimo.php">Número primo</a>
+				<a href="#">Sistema</a>
+            </p>
+            </p>
         </nav>
     </header>
     <main>

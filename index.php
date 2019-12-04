@@ -11,14 +11,14 @@
     <meta name="autor" content="Lucas Freitas">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="stylesheet" href="css/folha_all.css">
-    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/home.css"> 
 </head>
 
 <body>
 
     <header>
    
-      <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="../images/topocurso.png" alt=""> </a>
+      <a href="https://meu1sitecomphpcsshtml.000webhostapp.com/#"><img src="images/topocurso.png" alt=""> </a>
 
         <nav>
             <h1>PHP com banco de dados MySql Server</h1>
